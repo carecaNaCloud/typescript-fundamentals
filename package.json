@@ -1,0 +1,14 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learn TypeScript from freeCodeCamp Hitesh \u0016\u0016Choudhary Full Tutorial",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ismael",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
